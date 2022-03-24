@@ -1,22 +1,38 @@
 {
   "files": {
-    "app.js": "/codemaster/static/js/app.1c42a265.chunk.js",
-    "app.js.map": "/codemaster/static/js/app.1c42a265.chunk.js.map",
+    "app.js": "/codemaster/static/js/app.a0cbfad5.chunk.js",
+    "app.js.map": "/codemaster/static/js/app.a0cbfad5.chunk.js.map",
     "runtime~app.js": "/codemaster/static/js/runtime~app.cceafb91.js",
     "runtime~app.js.map": "/codemaster/static/js/runtime~app.cceafb91.js.map",
-    "static/js/2.fa66815f.chunk.js": "/codemaster/static/js/2.fa66815f.chunk.js",
-    "static/js/2.fa66815f.chunk.js.map": "/codemaster/static/js/2.fa66815f.chunk.js.map",
+    "static/js/2.9c59c484.chunk.js": "/codemaster/static/js/2.9c59c484.chunk.js",
+    "static/js/2.9c59c484.chunk.js.map": "/codemaster/static/js/2.9c59c484.chunk.js.map",
+    "fonts/JetBrainsMono-Bold.ttf": "/codemaster/./fonts/JetBrainsMono-Bold.ttf",
+    "fonts/JetBrainsMono-BoldItalic.ttf": "/codemaster/./fonts/JetBrainsMono-BoldItalic.ttf",
+    "fonts/JetBrainsMono-ExtraBold.ttf": "/codemaster/./fonts/JetBrainsMono-ExtraBold.ttf",
+    "fonts/JetBrainsMono-ExtraBoldItalic.ttf": "/codemaster/./fonts/JetBrainsMono-ExtraBoldItalic.ttf",
+    "fonts/JetBrainsMono-ExtraLight.ttf": "/codemaster/./fonts/JetBrainsMono-ExtraLight.ttf",
+    "fonts/JetBrainsMono-ExtraLightItalic.ttf": "/codemaster/./fonts/JetBrainsMono-ExtraLightItalic.ttf",
+    "fonts/JetBrainsMono-Italic.ttf": "/codemaster/./fonts/JetBrainsMono-Italic.ttf",
+    "fonts/JetBrainsMono-Light.ttf": "/codemaster/./fonts/JetBrainsMono-Light.ttf",
+    "fonts/JetBrainsMono-LightItalic.ttf": "/codemaster/./fonts/JetBrainsMono-LightItalic.ttf",
+    "fonts/JetBrainsMono-Medium.ttf": "/codemaster/./fonts/JetBrainsMono-Medium.ttf",
+    "fonts/JetBrainsMono-MediumItalic.ttf": "/codemaster/./fonts/JetBrainsMono-MediumItalic.ttf",
+    "fonts/JetBrainsMono-Regular.ttf": "/codemaster/./fonts/JetBrainsMono-Regular.ttf",
+    "fonts/JetBrainsMono-SemiBold.ttf": "/codemaster/./fonts/JetBrainsMono-SemiBold.ttf",
+    "fonts/JetBrainsMono-SemiBoldItalic.ttf": "/codemaster/./fonts/JetBrainsMono-SemiBoldItalic.ttf",
+    "fonts/JetBrainsMono-Thin.ttf": "/codemaster/./fonts/JetBrainsMono-Thin.ttf",
+    "fonts/JetBrainsMono-ThinItalic.ttf": "/codemaster/./fonts/JetBrainsMono-ThinItalic.ttf",
     "favicon-16.png": "/codemaster/favicon-16.png",
     "favicon-32.png": "/codemaster/favicon-32.png",
     "favicon.ico": "/codemaster/favicon.ico",
     "index.html": "/codemaster/index.html",
     "manifest.json": "/codemaster/manifest.json",
     "serve.json": "/codemaster/serve.json",
-    "static/js/2.fa66815f.chunk.js.LICENSE.txt": "/codemaster/static/js/2.fa66815f.chunk.js.LICENSE.txt"
+    "static/js/2.9c59c484.chunk.js.LICENSE.txt": "/codemaster/static/js/2.9c59c484.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime~app.cceafb91.js",
-    "static/js/2.fa66815f.chunk.js",
-    "static/js/app.1c42a265.chunk.js"
+    "static/js/2.9c59c484.chunk.js",
+    "static/js/app.a0cbfad5.chunk.js"
   ]
 }
