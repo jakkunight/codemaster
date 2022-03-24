@@ -1,6 +1,7 @@
 {
   "name": "codemaster",
   "version": "1.0.0",
+  "homepage": "https://jakkunight.github.io/codemaster/",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "start": "expo start",
