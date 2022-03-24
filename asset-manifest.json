@@ -1,22 +1,22 @@
 {
   "files": {
-    "app.js": "/codemaster/static/js/app.740a1d97.chunk.js",
-    "app.js.map": "/codemaster/static/js/app.740a1d97.chunk.js.map",
+    "app.js": "/codemaster/static/js/app.1e17e8b9.chunk.js",
+    "app.js.map": "/codemaster/static/js/app.1e17e8b9.chunk.js.map",
     "runtime~app.js": "/codemaster/static/js/runtime~app.cceafb91.js",
     "runtime~app.js.map": "/codemaster/static/js/runtime~app.cceafb91.js.map",
-    "static/js/2.b0e2afa2.chunk.js": "/codemaster/static/js/2.b0e2afa2.chunk.js",
-    "static/js/2.b0e2afa2.chunk.js.map": "/codemaster/static/js/2.b0e2afa2.chunk.js.map",
+    "static/js/2.fa66815f.chunk.js": "/codemaster/static/js/2.fa66815f.chunk.js",
+    "static/js/2.fa66815f.chunk.js.map": "/codemaster/static/js/2.fa66815f.chunk.js.map",
     "favicon-16.png": "/codemaster/favicon-16.png",
     "favicon-32.png": "/codemaster/favicon-32.png",
     "favicon.ico": "/codemaster/favicon.ico",
     "index.html": "/codemaster/index.html",
     "manifest.json": "/codemaster/manifest.json",
     "serve.json": "/codemaster/serve.json",
-    "static/js/2.b0e2afa2.chunk.js.LICENSE.txt": "/codemaster/static/js/2.b0e2afa2.chunk.js.LICENSE.txt"
+    "static/js/2.fa66815f.chunk.js.LICENSE.txt": "/codemaster/static/js/2.fa66815f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime~app.cceafb91.js",
-    "static/js/2.b0e2afa2.chunk.js",
-    "static/js/app.740a1d97.chunk.js"
+    "static/js/2.fa66815f.chunk.js",
+    "static/js/app.1e17e8b9.chunk.js"
   ]
 }
