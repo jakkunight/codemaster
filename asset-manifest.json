@@ -1,7 +1,7 @@
 {
   "files": {
-    "app.js": "/codemaster/static/js/app.e7b149ea.chunk.js",
-    "app.js.map": "/codemaster/static/js/app.e7b149ea.chunk.js.map",
+    "app.js": "/codemaster/static/js/app.8eecf760.chunk.js",
+    "app.js.map": "/codemaster/static/js/app.8eecf760.chunk.js.map",
     "runtime~app.js": "/codemaster/static/js/runtime~app.cceafb91.js",
     "runtime~app.js.map": "/codemaster/static/js/runtime~app.cceafb91.js.map",
     "static/js/2.53dc150f.chunk.js": "/codemaster/static/js/2.53dc150f.chunk.js",
@@ -28,11 +28,12 @@
     "index.html": "/codemaster/index.html",
     "manifest.json": "/codemaster/manifest.json",
     "serve.json": "/codemaster/serve.json",
-    "static/js/2.53dc150f.chunk.js.LICENSE.txt": "/codemaster/static/js/2.53dc150f.chunk.js.LICENSE.txt"
+    "static/js/2.53dc150f.chunk.js.LICENSE.txt": "/codemaster/static/js/2.53dc150f.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/codemaster/static/media/logo.608e4d9d.png"
   },
   "entrypoints": [
     "static/js/runtime~app.cceafb91.js",
     "static/js/2.53dc150f.chunk.js",
-    "static/js/app.e7b149ea.chunk.js"
+    "static/js/app.8eecf760.chunk.js"
   ]
 }
