@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/codemaster/static/js/app.36e7abae.chunk.js",
-    "app.js.map": "/codemaster/static/js/app.36e7abae.chunk.js.map",
+    "app.js": "/codemaster/static/js/app.9d0e91bc.chunk.js",
+    "app.js.map": "/codemaster/static/js/app.9d0e91bc.chunk.js.map",
     "runtime~app.js": "/codemaster/static/js/runtime~app.cceafb91.js",
     "runtime~app.js.map": "/codemaster/static/js/runtime~app.cceafb91.js.map",
-    "static/js/2.dc4b9eb5.chunk.js": "/codemaster/static/js/2.dc4b9eb5.chunk.js",
-    "static/js/2.dc4b9eb5.chunk.js.map": "/codemaster/static/js/2.dc4b9eb5.chunk.js.map",
+    "static/js/2.a79f4043.chunk.js": "/codemaster/static/js/2.a79f4043.chunk.js",
+    "static/js/2.a79f4043.chunk.js.map": "/codemaster/static/js/2.a79f4043.chunk.js.map",
     "fonts/JetBrainsMono-Bold.ttf": "/codemaster/./fonts/JetBrainsMono-Bold.ttf",
     "fonts/JetBrainsMono-BoldItalic.ttf": "/codemaster/./fonts/JetBrainsMono-BoldItalic.ttf",
     "fonts/JetBrainsMono-ExtraBold.ttf": "/codemaster/./fonts/JetBrainsMono-ExtraBold.ttf",
@@ -28,11 +28,11 @@
     "index.html": "/codemaster/index.html",
     "manifest.json": "/codemaster/manifest.json",
     "serve.json": "/codemaster/serve.json",
-    "static/js/2.dc4b9eb5.chunk.js.LICENSE.txt": "/codemaster/static/js/2.dc4b9eb5.chunk.js.LICENSE.txt"
+    "static/js/2.a79f4043.chunk.js.LICENSE.txt": "/codemaster/static/js/2.a79f4043.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime~app.cceafb91.js",
-    "static/js/2.dc4b9eb5.chunk.js",
-    "static/js/app.36e7abae.chunk.js"
+    "static/js/2.a79f4043.chunk.js",
+    "static/js/app.9d0e91bc.chunk.js"
   ]
 }
